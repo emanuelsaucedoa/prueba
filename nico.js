@@ -1,3 +1,3 @@
-let nico ="persona"
+let asd ="persona"
 
-console.log(nico)
+console.log(asd)
