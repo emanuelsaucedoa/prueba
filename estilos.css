@@ -1,0 +1,8 @@
+
+.trapecio-top {
+    width: 400px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-top: 100px solid #428bca;
+}
