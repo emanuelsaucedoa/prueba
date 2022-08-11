@@ -1,3 +1,3 @@
 let nico ="persona"
 
-console.log(nico)
+console.log(nico
