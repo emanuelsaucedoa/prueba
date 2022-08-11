@@ -1,3 +1,3 @@
-let facu ="persona"
+let asd ="persona"
 
-console.log(facu)
+console.log(asd)
